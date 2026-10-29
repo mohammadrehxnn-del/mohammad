@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+# Add Sitemap: https://YOUR-DOMAIN/sitemap.xml after choosing your domain
